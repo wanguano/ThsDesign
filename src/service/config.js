@@ -3,7 +3,7 @@
  * @Author: 吴建明
  * @Date: 2024-10-21 22:34:09
  * @LastEditors: 吴建明
- * @LastEditTime: 2024-10-21 22:51:41
+ * @LastEditTime: 2024-10-21 23:13:16
  * @FilePath: \ThsDesign\src\service\config.js
  * 
  */
@@ -17,3 +17,5 @@ export const BASE_URL =
   process.env.NODE_ENV === 'development' ? devBaseURL : proBaseURL
 
 export const TIMEOUT = 8000
+
+// 小悦悦
